@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Labview
 - 💞️ I’m looking to collaborate on power monitoring using Labview
-- 📫 How to reach me ...
+- 📫 to reach me ...g.sureshifs@gmail.com
+  
 
 <!---
 guguloth99/guguloth99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
