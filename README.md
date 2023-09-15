@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guguloth99
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Labvuew
+- 🌱 I’m currently learning Labview
 - 💞️ I’m looking to collaborate on power monitoring using Labview
 - 📫 How to reach me ...
 
